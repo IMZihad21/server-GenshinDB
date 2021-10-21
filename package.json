@@ -1,0 +1,22 @@
+{
+  "name": "genshindb",
+  "version": "1.0.0",
+  "description": "Server for Genshin Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IMZihad21/server-GenshinDB.git"
+  },
+  "author": "ZèD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMZihad21/server-GenshinDB/issues"
+  },
+  "homepage": "https://github.com/IMZihad21/server-GenshinDB#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
